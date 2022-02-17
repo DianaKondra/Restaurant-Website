@@ -1,0 +1,15 @@
+.button{
+    padding: 1%;
+}
+.column-img{
+    padding: 200px 50px 50px 100px;
+}
+.column-text{
+    padding: 250px 50px 50px 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.giftcard{
+    font-size: 48;
+    color: rgb(117, 6, 6);
+}
